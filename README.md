@@ -24,10 +24,8 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
-哈尔滨工程大学 电子信息 (2028届) 在读
+哈尔滨工程大学 电子信息 硕 (2028届) 在读
 
-西南大学       软件工程 (2025届)
+后端 + Agent + 强化学习 
 
-后端 && Agent初学者。
-
-想要毕业拿个好的offer，希望大家都能有好的归宿。
+想要毕业有个好的offer，希望我们都能有好的归宿。
